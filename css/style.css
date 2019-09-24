@@ -631,6 +631,14 @@ table a {
     text-decoration: none;
     color: var(--primary_color);
   }
+  
+  .table2 td:nth-child(2) {
+    background: #e1e1e1;
+  }
+  
+  .table2 tr:nth-child(1) td {
+    background: #FBB50F;
+  }
 
   .caption.one {
     display: none;
