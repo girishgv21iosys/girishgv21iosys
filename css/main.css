@@ -36,8 +36,8 @@ input[type="tel"],
 input[type="color"],
 select {
   height: 30.7px;
-  width: 245px;
-  padding: 0 0 0 10px;
+  width: 235px;
+  padding: 0 10px 0 10px;
   display: block;
   background: #ebebeb;
   border: 1px solid #ebebeb;
